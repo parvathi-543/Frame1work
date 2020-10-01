@@ -15,6 +15,7 @@ public static void main(String[] args) {
 			// WebDriver driver = new ChromeDriver();
 			// System.setProperty("webdriver.ie.driver", projectpath+"//Drivers//IEdriver//IEDriverServer.exe");
 			 //WebDriver driver = new InternetExplorerDriver();
-	
+	System.out.println("parvathiiiiiiii");
+
 }
 }
