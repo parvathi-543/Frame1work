@@ -1,0 +1,4 @@
+[INFO ] 2020-09-26 13:12:38.737 [main] Log4j - This is information message
+[ERROR] 2020-09-26 13:12:38.744 [main] Log4j - This is error message
+[WARN ] 2020-09-26 13:12:38.744 [main] Log4j - This is warn message
+[FATAL] 2020-09-26 13:12:38.745 [main] Log4j - This is fatal message
